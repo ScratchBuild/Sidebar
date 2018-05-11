@@ -160,11 +160,11 @@
 		"description"   : ""
 	},
 	"downloadsControlsCancel" : {
-		"message"       : "Cancel",
+		"message"       : "キャンセル",
 		"description"   : ""
 	},
 	"downloadsControlsDelete" : {
-		"message"       : "Delete",
+		"message"       : "削除",
 		"description"   : ""
 	},
 
@@ -197,7 +197,7 @@
 		"description"   : ""
 	},
 	"rssControlsDeleteItem" : {
-		"message"       : "Delete",
+		"message"       : "削除",
 		"description"   : ""
 	},
 	"rssControlsReload"          : {
@@ -295,11 +295,11 @@
 		"description"   : "header of options window"
 	},
 	"optSaveText" : {
-		"message"       : "Save",
+		"message"       : "保存",
 		"description"   : "Save button text"
 	},
 	"optCancelText" : {
-		"message"       : "Cancel",
+		"message"       : "キャンセル",
 		"description"   : "Cancel button text"
 	},
 
@@ -748,15 +748,15 @@
 		"description"   : ""
 	},
 	"dialogCancelButton" : {
-		"message"       : "Cancel",
+		"message"       : "キャンセル",
 		"description"   : ""
 	},
 	"dialogSaveButton" : {
-		"message"       : "Save",
+		"message"       : "保存",
 		"description"   : ""
 	},
 	"dialogDeleteButton" : {
-		"message"       : "Delete",
+		"message"       : "削除",
 		"description"   : ""
 	},
 	"dialogImportButton" : {
@@ -1096,11 +1096,11 @@
 		"description"   : ""
 	},
 	"clickActionsDeleteBookmark" : {
-		"message"       : "Delete",
+		"message"       : "削除",
 		"description"   : ""
 	},
 	"clickActionsDeletePocket" : {
-		"message"       : "Delete",
+		"message"       : "削除",
 		"description"   : ""
 	},
 	"clickActionsDeleteFile" : {
